@@ -1,11 +1,3 @@
-procedure Drop(color){
-  PutStone(color)
-}
-
-procedure Grab(color){
-  RemoveStone(color)
-}
-
 procedure ComeBack(){
   Move(West)
   Move(West)

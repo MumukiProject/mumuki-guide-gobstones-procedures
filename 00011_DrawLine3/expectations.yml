@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: DrawLine3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DrawLine3
   inspection: Uses:ComeBack
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: DeclaresComputationWithArity1:DrawLine3

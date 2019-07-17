@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: DrawBlackSquareSide3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DrawBlackSquareSide3
   inspection: Uses:DrawBlackLine3
-- binding: DrawBlackSquareSide3
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: DrawBlackSquareSide3
   inspection: Not:Uses:ComeBack
