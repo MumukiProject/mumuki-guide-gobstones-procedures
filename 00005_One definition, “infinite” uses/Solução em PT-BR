@@ -1,0 +1,13 @@
+#A solução é esta abaixo. Sabe porque? O enunciado falar sobre não usar o procedure, pois já foi declarado o "Colocar3Verdes" nos exercícios anteriores. Então é só chamado o program e o repetir 3x o que já foi procedure/declarado.
+
+program {
+  Colocar3Verdes()
+  Colocar3Verdes()
+  Colocar3Verdes()
+}
+
+Abç!
+Fiquem bem!
+
+At.te,
+Ricardo Kerr
